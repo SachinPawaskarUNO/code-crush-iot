@@ -8,7 +8,7 @@ The University of Nebraska College of Information Science and Technology will in
 
 For more information please visit the offical [CodeCrush](https://codecrush.unomaha.edu/) website
 
-## IoT Teacher Session?
+## IoT Teacher Session
 The IoT teacher session/talk was conducted on Nov 17th 2017 at the PKI conference room PKI 158 at the University of Omaha at Nebraska (UNO) as part of the CodeCrush Fall 2017 Immersion Experience, November 15 - 17, 2017 - Omaha, NE. The following materials from this session are located here.
 
 1. Presentation slides.
